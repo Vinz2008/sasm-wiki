@@ -8,8 +8,8 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'Sasm Wiki',
   tagline: 'This is the sasm wiki',
-  url: 'https://Vinz2008.github.io/sasm-wiki/',
-  baseUrl: '/',
+  url: 'https://Vinz2008.github.io',
+  baseUrl: '/sasm-wiki/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
