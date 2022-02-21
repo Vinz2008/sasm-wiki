@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksasm_website=self.webpackChunksasm_website||[]).push([[690],{9350:function(s){s.exports=JSON.parse('{"allTagsPath":"/sasm-wiki/blog/tags","slug":"/sasm-wiki/blog/tags/docusaurus","name":"docusaurus","count":4,"permalink":"/sasm-wiki/blog/tags/docusaurus"}')}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksasm_website=self.webpackChunksasm_website||[]).push([[643],{8354:function(s){s.exports=JSON.parse('{"allTagsPath":"/sasm-wiki/blog/tags","slug":"/sasm-wiki/blog/tags/hola","name":"hola","count":1,"permalink":"/sasm-wiki/blog/tags/hola"}')}}]);
