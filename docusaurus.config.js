@@ -45,7 +45,7 @@ const config = {
       navbar: {
         title: 'Sasm Site',
         logo: {
-          alt: 'My Site Logo',
+          alt: 'Sasm Logo',
           src: 'img/logo.svg',
         },
         items: [
