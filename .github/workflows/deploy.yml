@@ -1,0 +1,25 @@
+name: Deploy to pages on trunk
+
+on:
+  push:
+    branches:
+      - "main"
+  workflow_dispatch:
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    container: node:17-alpine
+    steps:
+    - name: Checkout Code
+      uses: actions/checkout@v2
+
+    - name: "Install deps"
+      run: |
+        apk add python3 make g++ git
+        yarn
+    - name: "yarn deploy"
+      run: |
+        git config --global user.name 'Vinz2008'
+        git config --global user.email 'vincentbidarddelanoe@gmail.com'
+        GIT_USER=Vinz2008 GIT_PASS=${{ github.token }} yarn deploy
