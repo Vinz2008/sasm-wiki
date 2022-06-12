@@ -14,3 +14,6 @@ text section
     move edx <= 20
 ```
 
+## Equivalent in assembly
+
+The equivalent in assembly is ```move```.
