@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunksasm_website=self.webpackChunksasm_website||[]).push([[284],{1885:function(e){e.exports=JSON.parse('{"permalink":"/sasm-wiki/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"previousPage":null,"nextPage":null,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

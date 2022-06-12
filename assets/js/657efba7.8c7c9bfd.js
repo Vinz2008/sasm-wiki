@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksasm_website=self.webpackChunksasm_website||[]).push([[451],{9592:function(s){s.exports=JSON.parse('{"permalink":"/sasm-wiki/blog/tags/hola","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

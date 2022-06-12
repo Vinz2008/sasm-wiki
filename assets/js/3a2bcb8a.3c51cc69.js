@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksasm_website=self.webpackChunksasm_website||[]).push([[301],{3338:function(s){s.exports=JSON.parse('{"permalink":"/sasm-wiki/blog/tags/facebook","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
