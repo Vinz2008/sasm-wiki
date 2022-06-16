@@ -1,5 +1,5 @@
 ---
-title: Move Instruction
+title: Move
 id: move_instruction
 ---
 

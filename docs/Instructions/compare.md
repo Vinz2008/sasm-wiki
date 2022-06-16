@@ -1,5 +1,5 @@
 ---
-title: Compare Instruction
+title: Compare
 id: compare_instruction
 ---
 
