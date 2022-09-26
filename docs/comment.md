@@ -16,4 +16,4 @@ text section
 
 ## Equivalent in assembly
 
-The equivalent in assembly is ```move```.
+The equivalent in assembly depends of your assembler. With nasm, it should be ```;```. 
